@@ -3,4 +3,6 @@
  <h2 align="center">File Password Stealer FTP</h2>
  <p align="center">Programas Utilizado Para Pegar Senhas via FTP: Filezilla</p>
 </p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://badgen.net/npm/license/lodash" />
+    </a>
