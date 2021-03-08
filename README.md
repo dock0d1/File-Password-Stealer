@@ -3,4 +3,4 @@
  <h2 align="center">File Password Stealer FTP</h2>
  <p align="center">PYTHON 3</p>
 </p>
-<img alt="Python 3" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+
