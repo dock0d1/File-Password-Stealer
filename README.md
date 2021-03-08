@@ -5,7 +5,7 @@
 </p>
 <a href="https://github.com/dock0d1">
       <img alt="Tests Passing" src="https://badgen.net/lgtm/grade/gitlab/nekokatt/hikari" />
-      <img alt="Tests Passing" src="https://badgen.net/twitter/Seguir/dock0d1" />
+      <img alt="Tests Passing" src="https://badgen.net/twitter/follow/dock0d1" />
       <img alt="Tests Passing" src="https://badgen.net/uptime-robot/status/m780862024-50db2c44c703e5c68d6b1ebb" />
       <img alt="Tests Passing" src="https://badgen.net/npm/license/lodash" />
     </a>
