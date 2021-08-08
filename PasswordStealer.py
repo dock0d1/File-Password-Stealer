@@ -5,6 +5,7 @@ import random
 import string
 import ftplib
 import time
+import requests
 
 def id_generator(size=25,chars=string.ascii_uppercase + string.digits + string.ascii_lowercase):
 	return ''.join(random.choice(chars) for _ in range(size))
